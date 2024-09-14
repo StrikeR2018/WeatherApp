@@ -85,3 +85,5 @@ This assignment is worth 100 points, broken down as follows:
   * 10 points: clicking a city in the navigation drawer displays the forecast for the selected location
 
 In addition, you may earn up to 10 points worth of extra credit for implementing an improved mechanism for entering a new forecast city, as described above.
+#   W e a t h e r A p p  
+ 
